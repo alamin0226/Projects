@@ -1,0 +1,1822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\dataaccesslayer\\sharedaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\dataaccesslayer\\sharedaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\dataaccesslayer\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\dataaccesslayer\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\dataaccesslayer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\dataaccesslayer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\dataaccesslayer\\auditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\dataaccesslayer\\auditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\dataaccesslayer\\activitylogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\dataaccesslayer\\activitylogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\ui\\uc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\dashboardmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\dashboardmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_recentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_recentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultfilerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultfilerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_recentactivity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_recentactivity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\search\\uc_searchfilerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\search\\uc_searchfilerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\search\\uc_search.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\search\\uc_search.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\dashboardmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\dashboardmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\search\\uc_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\search\\uc_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\search\\uc_searchfilerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\search\\uc_searchfilerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\search\\uc_searchfilerow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\search\\uc_searchfilerow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\search\\uc_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\search\\uc_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\all files\\uc_filerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\all files\\uc_filerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\activitylog\\uc_activitylogrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\activitylog\\uc_activitylogrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\all files\\uc_allfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\all files\\uc_allfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\all files\\uc_allfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\all files\\uc_allfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\all files\\uc_activityrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\all files\\uc_activityrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\dashboardmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\dashboardmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\dashboardmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\dashboardmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\listitem_auditrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\listitem_auditrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\listitem_activityrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\listitem_activityrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\activitylog\\uc_activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\activitylog\\uc_activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultcontent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultcontent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultcontent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultcontent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\resetpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\resetpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\resetpass.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\resetpass.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\vault\\uc_vaultcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\vault\\uc_vaultcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\listitem_userrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\listitem_userrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\listitem_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\listitem_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\vaultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\vaultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\models\\vaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\models\\vaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\safeboxdataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\safeboxdataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\safeboxdataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\safeboxdataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\safeboxdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\safeboxdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\sharedacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\sharedacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\vaultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\vaultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\safeboxdataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\safeboxdataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\safeboxdataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\safeboxdataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\safeboxdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\safeboxdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\models\\vaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\models\\vaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\uc\\all files\\uc_allfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\uc\\all files\\uc_allfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\sharedacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\sharedacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\domain\\entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\domain\\entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\dataaccesslayer\\activitylogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\dataaccesslayer\\activitylogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|c:\\users\\user\\desktop\\safebox(antigravity)\\safebox(antigravity)\\safebox(updated)\\safebox\\safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\listitem_activityrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\listitem_activityrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\listitem_userrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\listitem_userrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}|SafeBox\\SafeBox.csproj|solutionrelative:safebox\\ui\\admin uc\\uc_auditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/RUHCOMP_SQLEXPRESS/Safebox/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UC\\Vault\\UC_VaultCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeBox\\UC\\Vault\\UC_VaultCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeBox\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeBox\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedAccessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\SharedAccessRepository.cs",
+              "RelativeDocumentMoniker": "SafeBox\\DataAccessLayer\\SharedAccessRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\SharedAccessRepository.cs",
+              "RelativeToolTip": "SafeBox\\DataAccessLayer\\SharedAccessRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:00:34.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\FileRepository.cs",
+              "RelativeDocumentMoniker": "SafeBox\\DataAccessLayer\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\FileRepository.cs",
+              "RelativeToolTip": "SafeBox\\DataAccessLayer\\FileRepository.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:00:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "SafeBox\\DataAccessLayer\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\DatabaseHelper.cs",
+              "RelativeToolTip": "SafeBox\\DataAccessLayer\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:00:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\AuditRepository.cs",
+              "RelativeDocumentMoniker": "SafeBox\\DataAccessLayer\\AuditRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\AuditRepository.cs",
+              "RelativeToolTip": "SafeBox\\DataAccessLayer\\AuditRepository.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:00:11.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoardMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\DashBoardMain.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\DashBoardMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:25:35.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_RecentActivity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.Designer.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:44:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_VaultCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:14:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_VaultRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:06:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\UC_Dashboard.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\UC_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivityLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "RelativeDocumentMoniker": "SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "RelativeToolTip": "SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:10:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_RecentActivity.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_RecentActivity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:34:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_VaultContent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:35:38.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_VaultFileRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultFileRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultFileRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultFileRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultFileRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:54:32.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_Vaults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_Vaults.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_Vaults.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_Vaults.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_Vaults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:08:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\UC_Profile.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\UC_Profile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\UC_Profile.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\UC_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:11:46.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:15:01.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Registration.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Registration.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Registration.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:23:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResetPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\ResetPass.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\ResetPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:22:32.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_SearchFileRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:28:03.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_Search.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_Search.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Search\\UC_Search.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_Search.Designer.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Search\\UC_Search.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:45:49.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashBoardMain.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\DashBoardMain.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.cs",
+              "RelativeToolTip": "SafeBox\\UI\\DashBoardMain.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAA2wMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:46:48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_Search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_Search.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Search\\UC_Search.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_Search.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Search\\UC_Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:13:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_SearchFileRow.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADgv2UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:23:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_SearchFileRow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.Designer.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Search\\UC_SearchFileRow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:23:11.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_Search.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_Search.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Search\\UC_Search.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Search\\UC_Search.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Search\\UC_Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:55:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UC_FileRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_FileRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ALL FILES\\UC_FileRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_FileRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ALL FILES\\UC_FileRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:53:53.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UC_AllFiles.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAArwEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:14:13.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UC_ActivityLogRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLogRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLogRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLogRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLogRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:57:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UC_AllFiles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:05:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UC_ActivityRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_ActivityRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ALL FILES\\UC_ActivityRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_ActivityRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ALL FILES\\UC_ActivityRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:01:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UC_VaultContent.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAwwGUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:01:57.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DashBoardMain.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.resx",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\DashBoardMain.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.resx",
+              "RelativeToolTip": "SafeBox\\UI\\DashBoardMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-18T14:40:26.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DashBoardMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\DashBoardMain.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\DashBoardMain.Designer.cs",
+              "RelativeToolTip": "SafeBox\\UI\\DashBoardMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:40:07.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UC_ActivityLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLog.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLog.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLog.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ActivityLog\\UC_ActivityLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:57:10.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ListItem_ActivityRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:18:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListItem_AuditRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_AuditRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\ListItem_AuditRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_AuditRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\ListItem_AuditRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:18:58.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UC_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\UC_Dashboard.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\UC_Dashboard.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAqwBkBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:07:59.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UC_VaultContent.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.resx",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.resx",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-17T16:47:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UC_VaultContent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultContent.Designer.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultContent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:47:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ResetPass.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\ResetPass.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.cs",
+              "RelativeToolTip": "SafeBox\\UI\\ResetPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:46:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResetPass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\ResetPass.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.Designer.cs",
+              "RelativeToolTip": "SafeBox\\UI\\ResetPass.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:47:17.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResetPass.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.resx",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\ResetPass.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\ResetPass.resx",
+              "RelativeToolTip": "SafeBox\\UI\\ResetPass.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-17T16:47:20.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UC_VaultCard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\Vault\\UC_VaultCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:44:11.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "SafeBox\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "SafeBox\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:18:12.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "SafeBox\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "SafeBox\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:18:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/RUHCOMP_SQLEXPRESS/Safebox/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/RUHCOMP_SQLEXPRESS/Safebox/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-17T12:00:09.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:33:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UC_AuditLogs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:20:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UC_AdminProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:33:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ListItem_User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_User.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\ListItem_User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_User.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\ListItem_User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:20:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ListItem_UserRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:29:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UC_UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:29:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UC_AdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminHome.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:05:58.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UC_Roles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_Roles.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_Roles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_Roles.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_Roles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:37:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UC_AuditLogs.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADgv44AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:20:26.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "UC_VaultCard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UC\\Vault\\UC_VaultCard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UC\\Vault\\UC_VaultCard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UC\\Vault\\UC_VaultCard.cs",
+              "RelativeToolTip": "SafeBox\\UC\\Vault\\UC_VaultCard.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:18:29.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UC_AdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:42:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\FileService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\FileService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:47.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "VaultManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\VaultManager.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\VaultManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\VaultManager.cs",
+              "RelativeToolTip": "SafeBox\\Services\\VaultManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:22:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Registration.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Registration.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Registration.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:23:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:46.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DatabaseConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\DatabaseConnectionService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\DatabaseConnectionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\DatabaseConnectionService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\DatabaseConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\ActivityService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\ActivityService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\ActivityService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:36.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SafeBoxDataSet.xss",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xss",
+              "RelativeDocumentMoniker": "SafeBox\\SafeBoxDataSet.xss",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xss",
+              "RelativeToolTip": "SafeBox\\SafeBoxDataSet.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEVSURBVDhPlZI9coMwEIUfdIgm3CDmBmliaKl1Aah8hJwkTutU6biA7sA4jW\u002BA01PgzITVUG2KIGKJn8TfzI5Gb6UdvdUCK2itd0R0IiJ24qS13oGZPfeSgYj2dV0/VVWFsiytXJ7nSNMUcRy/WAlD27Z3TdPw4fDKl/ZzNvbPeyYi9t3L13Rd50ojX0NuzQJLKbG53\u002BBxu7Vy78cjzh9nKKXsAkTE13sAkFK60ohSChMLUsox/sOkwK1MCiilrPUvfAze5/xjKDRXLAxDwPyC6fgSSimrJ0mSoCiK30EiIs6yzB1XXtF/RhmAP/d0IcTsfPR9HwkhPCHEQxAEbzA9MM9zbbh6FEUX68DcL9yKt2RhSXe1b4wV0dNGMLxjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-01-17T12:18:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SafeBoxDataSet.xsc",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xsc",
+              "RelativeDocumentMoniker": "SafeBox\\SafeBoxDataSet.xsc",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xsc",
+              "RelativeToolTip": "SafeBox\\SafeBoxDataSet.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2026-01-17T12:19:06.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SafeBoxDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\SafeBoxDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.Designer.cs",
+              "RelativeToolTip": "SafeBox\\SafeBoxDataSet.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:18:47.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Program.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Program.cs",
+              "RelativeToolTip": "SafeBox\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:36:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "VaultData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\VaultData.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Models\\VaultData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\VaultData.cs",
+              "RelativeToolTip": "SafeBox\\Models\\VaultData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:17:33.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UC_AllFiles.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "RelativeToolTip": "SafeBox\\UI\\UC\\ALL FILES\\UC_AllFiles.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAgwM4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:14:13.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\FileData.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Models\\FileData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\FileData.cs",
+              "RelativeToolTip": "SafeBox\\Models\\FileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Vault.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Vault.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Vault.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Vault.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Vault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:26.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:16.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SharedAcess.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:56.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\File.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\File.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\File.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:42.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:38.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Admin.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ActivityLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "RelativeDocumentMoniker": "SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "RelativeToolTip": "SafeBox\\DataAccessLayer\\ActivityLogRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAApwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:10:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\app.config",
+              "RelativeDocumentMoniker": "SafeBox\\app.config",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\app.config",
+              "RelativeToolTip": "SafeBox\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-17T11:20:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UC_AdminProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AdminProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:33:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "UC_AuditLogs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:20:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "UC_UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAEwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:45:18.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "UC_UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:29:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Login.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAowKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:51:26.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:15:01.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "UC_AdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AdminHome.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowG8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:42:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "UC_Roles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_Roles.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_Roles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_Roles.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_Roles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:37:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ListItem_ActivityRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\ListItem_ActivityRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:18:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ListItem_UserRow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\ListItem_UserRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:29:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:33:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "UC_AuditLogs.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_AuditLogs.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:20:26.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VaultManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\VaultManager.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\VaultManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\VaultManager.cs",
+              "RelativeToolTip": "SafeBox\\Services\\VaultManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:22:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\FileService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\FileService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:47.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:46.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DatabaseConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\DatabaseConnectionService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\DatabaseConnectionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\DatabaseConnectionService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\DatabaseConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\ActivityService.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Services\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Services\\ActivityService.cs",
+              "RelativeToolTip": "SafeBox\\Services\\ActivityService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:20:36.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SafeBoxDataSet.xss",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xss",
+              "RelativeDocumentMoniker": "SafeBox\\SafeBoxDataSet.xss",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xss",
+              "RelativeToolTip": "SafeBox\\SafeBoxDataSet.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEVSURBVDhPlZI9coMwEIUfdIgm3CDmBmliaKl1Aah8hJwkTutU6biA7sA4jW\u002BA01PgzITVUG2KIGKJn8TfzI5Gb6UdvdUCK2itd0R0IiJ24qS13oGZPfeSgYj2dV0/VVWFsiytXJ7nSNMUcRy/WAlD27Z3TdPw4fDKl/ZzNvbPeyYi9t3L13Rd50ojX0NuzQJLKbG53\u002BBxu7Vy78cjzh9nKKXsAkTE13sAkFK60ohSChMLUsox/sOkwK1MCiilrPUvfAze5/xjKDRXLAxDwPyC6fgSSimrJ0mSoCiK30EiIs6yzB1XXtF/RhmAP/d0IcTsfPR9HwkhPCHEQxAEbzA9MM9zbbh6FEUX68DcL9yKt2RhSXe1b4wV0dNGMLxjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-01-17T12:18:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SafeBoxDataSet.xsc",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xsc",
+              "RelativeDocumentMoniker": "SafeBox\\SafeBoxDataSet.xsc",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.xsc",
+              "RelativeToolTip": "SafeBox\\SafeBoxDataSet.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2026-01-17T12:19:06.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SafeBoxDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "SafeBox\\SafeBoxDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\SafeBoxDataSet.Designer.cs",
+              "RelativeToolTip": "SafeBox\\SafeBoxDataSet.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:18:47.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "VaultData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\VaultData.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Models\\VaultData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\VaultData.cs",
+              "RelativeToolTip": "SafeBox\\Models\\VaultData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:17:33.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\FileData.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Models\\FileData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Models\\FileData.cs",
+              "RelativeToolTip": "SafeBox\\Models\\FileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Vault.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Vault.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Vault.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Vault.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Vault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:26.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:16.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SharedAcess.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\SharedAcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:15:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:56.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\File.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\File.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\File.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:42.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:38.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\Admin.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "RelativeToolTip": "SafeBox\\Domain\\Entities\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\app.config",
+              "RelativeDocumentMoniker": "SafeBox\\app.config",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\app.config",
+              "RelativeToolTip": "SafeBox\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-17T11:20:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UC_UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Admin UC\\UC_UserManagement.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAEwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:45:18.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "SafeBox\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SafeBox(antigravity)\\SafeBox(antigravity)\\SafeBox(updated)\\SafeBox\\SafeBox\\UI\\Login.cs",
+              "RelativeToolTip": "SafeBox\\UI\\Login.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAowKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:51:26.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

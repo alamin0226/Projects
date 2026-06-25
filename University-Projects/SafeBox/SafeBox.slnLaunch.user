@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SafeBox\\SafeBox.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

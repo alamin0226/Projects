@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{283F1E4F-A99A-4F5D-8DDB-94C3977D5D35}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SafeBox</RootNamespace>
+    <AssemblyName>SafeBox</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CuoreUI, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CuoreUI.Winforms.2025.12.14.1\lib\net472\CuoreUI.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.1\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Configuration.ConfigurationBuilders.Base, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Configuration.ConfigurationBuilders.Base.3.0.0\lib\Net471\Microsoft.Configuration.ConfigurationBuilders.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Configuration.ConfigurationBuilders.UserSecrets, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.3.0.0\lib\Net471\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=3.1.10.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.3.1.10\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=3.1.10.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.3.1.10\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=3.1.10.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.3.1.10\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=3.1.10.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.3.1.10\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="ReaLTaiizor, Version=3.8.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReaLTaiizor.3.8.1.4\lib\net48\ReaLTaiizor.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.6.1\lib\net462\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.6.3\lib\net462\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.6.1\lib\net462\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.1.2\lib\net462\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=10.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.10.0.1\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.4.7.2\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Exception\BusinessException.cs" />
+    <Compile Include="BLL\Security\EncryptionService.cs" />
+    <Compile Include="BLL\Security\PasswordHasher.cs" />
+    <Compile Include="BLL\Services\ActivityLogService.cs" />
+    <Compile Include="BLL\Services\AdminService.cs" />
+    <Compile Include="BLL\Services\AuditLogService.cs" />
+    <Compile Include="BLL\Services\FileService.cs" />
+    <Compile Include="BLL\Services\ShareService.cs" />
+    <Compile Include="BLL\Services\UserService.cs" />
+    <Compile Include="BLL\Services\VaultService.cs" />
+    <Compile Include="BLL\Validators\AuthValidator.cs" />
+    <Compile Include="BLL\Validators\LoginValidator.cs" />
+    <Compile Include="BLL\Validators\RegisterValidator.cs" />
+    <Compile Include="BLL\Validators\VaultValidator.cs" />
+    <Compile Include="DAL\Db\DbConfig.cs" />
+    <Compile Include="DAL\Db\DbHelper.cs" />
+    <Compile Include="DAL\Mappers\FileMapper.cs" />
+    <Compile Include="DAL\Mappers\UserMapper.cs" />
+    <Compile Include="DAL\Mappers\VaultMapper.cs" />
+    <Compile Include="DAL\Repositories\ActivityLogRepository.cs" />
+    <Compile Include="DAL\Repositories\AdminRepository.cs" />
+    <Compile Include="DAL\Repositories\AuditLogRepository.cs" />
+    <Compile Include="DAL\Repositories\CryptoRepository.cs" />
+    <Compile Include="DAL\Repositories\EncryptionRepository.cs" />
+    <Compile Include="DAL\Repositories\FileRepository.cs" />
+    <Compile Include="DAL\Repositories\FileShareRepository.cs" />
+    <Compile Include="DAL\Repositories\PermissionRepository.cs" />
+    <Compile Include="DAL\Repositories\UserRepository.cs" />
+    <Compile Include="DAL\Repositories\VaultRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IActivityLogRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IAdminRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IAuditLogRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IAuthRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\ICryptoService.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IEncryptionRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IFileRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IFileShareRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IPermissionRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IUserRepository.cs" />
+    <Compile Include="Domain\Contracts\Repositories\IVaultRepository.cs" />
+    <Compile Include="Domain\Contracts\Services\IFileService.cs" />
+    <Compile Include="Domain\Contracts\Services\IUserService.cs" />
+    <Compile Include="Domain\DTOs\Auth\LoginRequest.cs" />
+    <Compile Include="Domain\DTOs\Auth\LoginResult.cs" />
+    <Compile Include="Domain\DTOs\Auth\RegisterRequest.cs" />
+    <Compile Include="Domain\DTOs\Auth\RegisterResult.cs" />
+    <Compile Include="Domain\DTOs\Files\FileResponse.cs" />
+    <Compile Include="Domain\DTOs\Files\ShareFileRequest.cs" />
+    <Compile Include="Domain\DTOs\Files\UploadFileRequest.cs" />
+    <Compile Include="Domain\DTOs\Logs\ActivityLogResponse.cs" />
+    <Compile Include="Domain\DTOs\Logs\AuditLogResponse.cs" />
+    <Compile Include="Domain\DTOs\Vaults\CreateVaultRequest.cs" />
+    <Compile Include="Domain\DTOs\Vaults\VaultResponse.cs" />
+    <Compile Include="Domain\Entities\FileItem.cs" />
+    <Compile Include="Domain\Entities\FileShare.cs" />
+    <Compile Include="Domain\Enums\PermissionType.cs" />
+    <Compile Include="Domain\Entities\ActivityLog.cs" />
+    <Compile Include="Domain\Entities\Admin.cs" />
+    <Compile Include="Domain\Entities\AuditLog.cs" />
+    <Compile Include="Domain\Entities\File.cs" />
+    <Compile Include="Domain\Entities\Permission.cs" />
+    <Compile Include="Domain\Entities\SharedAcess.cs" />
+    <Compile Include="Domain\Entities\User.cs" />
+    <Compile Include="Domain\Entities\Vault.cs" />
+    <Compile Include="Presentation\Admin UC\ListItem_ActivityRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_ActivityRow.Designer.cs">
+      <DependentUpon>ListItem_ActivityRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_AuditRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_AuditRow.Designer.cs">
+      <DependentUpon>ListItem_AuditRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_User.Designer.cs">
+      <DependentUpon>ListItem_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_UserRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\ListItem_UserRow.Designer.cs">
+      <DependentUpon>ListItem_UserRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\UC_AdminHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\UC_AdminHome.Designer.cs">
+      <DependentUpon>UC_AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\UC_AdminProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\UC_AdminProfile.Designer.cs">
+      <DependentUpon>UC_AdminProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\UC_AuditLogs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Admin UC\UC_AuditLogs.Designer.cs">
+      <DependentUpon>UC_AuditLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ResetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ResetPass.Designer.cs">
+      <DependentUpon>ResetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\ActivityLog\UC_ActivityLogRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\ActivityLog\UC_ActivityLogRow.Designer.cs">
+      <DependentUpon>UC_ActivityLogRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\AllFiles\UC_AllFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\AllFiles\UC_AllFiles.Designer.cs">
+      <DependentUpon>UC_AllFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\AllFiles\UC_FileRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\AllFiles\UC_FileRow.Designer.cs">
+      <DependentUpon>UC_FileRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\ActivityLog\UC_ActivityLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\ActivityLog\UC_ActivityLog.Designer.cs">
+      <DependentUpon>UC_ActivityLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\AllFiles\UC_ActivityRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\AllFiles\UC_ActivityRow.Designer.cs">
+      <DependentUpon>UC_ActivityRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Search\UC_SearchFileRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Search\UC_SearchFileRow.Designer.cs">
+      <DependentUpon>UC_SearchFileRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Dashboard\UC_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Dashboard\UC_Dashboard.Designer.cs">
+      <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Presentation\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Search\UC_Search.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Search\UC_Search.Designer.cs">
+      <DependentUpon>UC_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\DashBoardMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DashBoardMain.Designer.cs">
+      <DependentUpon>DashBoardMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\UC_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\UC_Profile.Designer.cs">
+      <DependentUpon>UC_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_RecentActivity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_RecentActivity.Designer.cs">
+      <DependentUpon>UC_RecentActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultFileRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultFileRow.Designer.cs">
+      <DependentUpon>UC_VaultFileRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultCard.Designer.cs">
+      <DependentUpon>UC_VaultCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultRow.Designer.cs">
+      <DependentUpon>UC_VaultRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_Vaults.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_Vaults.Designer.cs">
+      <DependentUpon>UC_Vaults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\UC\Vault\UC_VaultContent.Designer.cs">
+      <DependentUpon>UC_VaultContent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Presentation\Admin UC\ListItem_ActivityRow.resx">
+      <DependentUpon>ListItem_ActivityRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\ListItem_AuditRow.resx">
+      <DependentUpon>ListItem_AuditRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\ListItem_User.resx">
+      <DependentUpon>ListItem_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\ListItem_UserRow.resx">
+      <DependentUpon>ListItem_UserRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\UC_AdminHome.resx">
+      <DependentUpon>UC_AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\UC_AdminProfile.resx">
+      <DependentUpon>UC_AdminProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Admin UC\UC_AuditLogs.resx">
+      <DependentUpon>UC_AuditLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Presentation\Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ResetPass.resx">
+      <DependentUpon>ResetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\ActivityLog\UC_ActivityLogRow.resx">
+      <DependentUpon>UC_ActivityLogRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\AllFiles\UC_AllFiles.resx">
+      <DependentUpon>UC_AllFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\AllFiles\UC_FileRow.resx">
+      <DependentUpon>UC_FileRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\ActivityLog\UC_ActivityLog.resx">
+      <DependentUpon>UC_ActivityLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\AllFiles\UC_ActivityRow.resx">
+      <DependentUpon>UC_ActivityRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Search\UC_Search.resx">
+      <DependentUpon>UC_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\DashBoardMain.resx">
+      <DependentUpon>DashBoardMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Search\UC_SearchFileRow.resx">
+      <DependentUpon>UC_SearchFileRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Dashboard\UC_Dashboard.resx">
+      <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\UC_Profile.resx">
+      <DependentUpon>UC_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Vault\UC_RecentActivity.resx">
+      <DependentUpon>UC_RecentActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Vault\UC_VaultFileRow.resx">
+      <DependentUpon>UC_VaultFileRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Vault\UC_VaultCard.resx">
+      <DependentUpon>UC_VaultCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Vault\UC_VaultRow.resx">
+      <DependentUpon>UC_VaultRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Vault\UC_Vaults.resx">
+      <DependentUpon>UC_Vaults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UC\Vault\UC_VaultContent.resx">
+      <DependentUpon>UC_VaultContent.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bin\Debug\SafeBox.exe.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CuoreUI.dll" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll" />
+    <Content Include="bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml" />
+    <Content Include="bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll" />
+    <Content Include="bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml" />
+    <Content Include="bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll" />
+    <Content Include="bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml" />
+    <Content Include="bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <Content Include="bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml" />
+    <Content Include="bin\Debug\Microsoft.Extensions.DependencyInjection.dll" />
+    <Content Include="bin\Debug\Microsoft.Extensions.DependencyInjection.xml" />
+    <Content Include="bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll" />
+    <Content Include="bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml" />
+    <Content Include="bin\Debug\Microsoft.Extensions.Options.dll" />
+    <Content Include="bin\Debug\Microsoft.Extensions.Options.xml" />
+    <Content Include="bin\Debug\Microsoft.Extensions.Primitives.dll" />
+    <Content Include="bin\Debug\Microsoft.Extensions.Primitives.xml" />
+    <Content Include="bin\Debug\ReaLTaiizor.dll" />
+    <Content Include="bin\Debug\ReaLTaiizor.xml" />
+    <Content Include="bin\Debug\SafeBox.exe" />
+    <Content Include="bin\Debug\SafeBox.pdb" />
+    <Content Include="bin\Debug\System.Buffers.dll" />
+    <Content Include="bin\Debug\System.Buffers.xml" />
+    <Content Include="bin\Debug\System.ComponentModel.Annotations.dll" />
+    <Content Include="bin\Debug\System.Memory.dll" />
+    <Content Include="bin\Debug\System.Memory.xml" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.dll" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.xml" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="bin\Debug\System.Text.Encodings.Web.dll" />
+    <Content Include="bin\Debug\System.Text.Encodings.Web.xml" />
+    <Content Include="bin\Debug\System.Text.Json.dll" />
+    <Content Include="bin\Debug\System.Text.Json.xml" />
+    <Content Include="bin\Debug\System.Threading.Tasks.Extensions.dll" />
+    <Content Include="bin\Debug\System.Threading.Tasks.Extensions.xml" />
+    <Content Include="bin\Debug\System.ValueTuple.dll" />
+    <Content Include="bin\Debug\System.ValueTuple.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+</Project>
